@@ -4,9 +4,9 @@ Este proyecto tiene como objetivo analizar un conjunto de datos de enfermedades 
 ## Estructura del Proyecto
 ## Carga y Exploración de Datos
 
-•Lectura del archivo CSV que contiene los datos de pacientes con diversas características y condiciones relacionadas con enfermedades cardíacas.
+• Lectura del archivo CSV que contiene los datos de pacientes con diversas características y condiciones relacionadas con enfermedades cardíacas.
 
-•Visualización de las primeras filas del DataFrame para entender la estructura y el contenido de los datos.
+• Visualización de las primeras filas del DataFrame para entender la estructura y el contenido de los datos.
 
 ## Filtrado de Datos
 

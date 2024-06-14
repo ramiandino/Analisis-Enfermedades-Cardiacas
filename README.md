@@ -15,7 +15,9 @@ Almacenamiento de los registros filtrados en una lista llamada resultados.
 ## Almacenamiento en SQLite:
 
 • Creación de una base de datos SQLite llamada heart_disease.db.
+
 • Creación de una tabla llamada heart_disease_data para almacenar los registros filtrados.
+
 • Inserción de los datos filtrados en la tabla de la base de datos.
 
 ## Verificación de Datos:
@@ -24,8 +26,11 @@ Almacenamiento de los registros filtrados en una lista llamada resultados.
 ## Requisitos:
 
 **• Python 3**
+
 **• Pandas**
+
 **• SQLite3**
+
 **• pyodbc (solo si usas ODBC para otras bases de datos)**
 
 ## Archivos del Proyecto
